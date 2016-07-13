@@ -1,12 +1,12 @@
 {
     "name": "sukelali/test-package",
     "description": "This is a laravel package test library",
-    "keywords": ["framework", "laravel", "library"],
+    "keywords": ["0.0.1", "0.0.2", "0.0.3"],
     "license": "MIT",
     "type": "library",
     "author":[
         {
-       "name": "sukel ali",
+       "name": "sukelali",
        "email": "sukelali@gmail.com"
         }
       ],
