@@ -1,5 +1,5 @@
 {
-    "name": "sukelali/testPackage",
+    "name": "sukelali/test-package",
     "description": "This is a laravel package test library",
     "keywords": ["framework", "laravel", "library"],
     "license": "MIT",
