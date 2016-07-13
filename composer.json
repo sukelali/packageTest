@@ -4,6 +4,12 @@
     "keywords": ["framework", "laravel", "library"],
     "license": "MIT",
     "type": "library",
+    "author":[
+        {
+       "name": "sukel ali",
+       "email": "sukelali@gmail.com"
+        }
+      ],
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*"
@@ -46,5 +52,6 @@
     },
     "config": {
         "preferred-install": "dist"
-    }
+    },
+     "minimum-stability": "stable"
 }
